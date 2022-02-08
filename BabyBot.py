@@ -82,4 +82,4 @@ async def Hell_Yeah_it_Worked(ctx):
 
 client.add_cog(music.Music(client, cfg))
 client.add_cog(redditscraper.DealAlert(client))
-client.run('Nzg0ODIxMTE0ODc4NTU4MjY4.X8u3nw.nfNgt4LtFPckzMs4623NMeohx6w')
+client.run("""bot token""")
